@@ -3,6 +3,7 @@
 
 
 >1.It can handle rating number of tickets booked , user account and there comments.
+
 2.It also includes various databse for actors, directors and there nominations, awards  they have received in various film fare awards 
 
 **Files to Look**
