@@ -1,4 +1,4 @@
-# ImDb-Movie Database implementation-in-Hive-
+# ImDb-Movie Database implementation in Hive OracleSQL SQLServer
 ## Data base Architecture of IMDb is implemented in this project.
 
 ### This project is been implemented in the:
